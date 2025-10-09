@@ -16,7 +16,7 @@ public class WordCensor {
         }
         else
         {
-            System.out.print(initial);
+            System.out.print("Censored:" + initial);
         }
         
     }
